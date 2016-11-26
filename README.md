@@ -1,4 +1,23 @@
-# phpcj
-* ä¸­å­¦æˆç»©åˆ†æžåŠæŸ¥è¯¢ç³»ç»Ÿ
-* åœ¨åŽŸæœ‰æ—§ç‰ˆæœ¬åŸºç¡€ä¸Šçš„ä¿®æ”¹ï¼ŒåŽå°æœªå®Œæˆï¼Œä¸å‡†å¤‡å¡«å‘äº†ã€‚ã€‚ã€‚
-* æ–°å‘è¿‘æœŸå¼€æŒ–ï¼Œæ•¬è¯·æœŸå¾…ï¼
+#ÖÐÑ§³É¼¨¹ÜÀíÏµÍ³
+
+¹Ù·½ÍøÕ¾£º[http://phpcj.net/](http://phpcj.net/)
+×÷Õß²©¿Í£º[http://phpcj.org/](http://phpcj.org/)
+
+#°²×°ËµÃ÷
+
+* ÅäÖÃPHP+Mysql»·¾³£¨Windows»·¾³¿ÉÓÃÎÒµÄÒ»¼ü°ü[http://phpcj.org/wnmp/](http://phpcj.org/wnmp/)£©
+* ÍøÕ¾¸ùÄ¿Â¼ÉèÖÃÎªpublic
+* ´´½¨MysqlÊý¾Ý¿â£¬Èçphpcj£¬ÐÞ¸Äconni.phpÖÐµÄÁ¬½Ó²ÎÊý
+* µ¼Èëphpcj_test.sqlÎÄ¼þ
+* Íê³É
+
+#³ÌÐòËµÃ÷
+
+* ³ÌÐòÊÇÔÚÀÏ³ÌÐò£¨phpcj20121212£©µÄ»ù´¡ÉÏ½øÐÐµÄÐÞ¸Ä£¬ºóÌ¨¹ÜÀí¹¦ÄÜÃ»ÓÐÍêÈ«Ç¨ÒÆ¹ýÀ´
+* Ö§³ÖPHP7
+
+#¿ª·¢¼Æ»®
+
+* °ÑºóÌ¨³É¼¨ÉÏ´«µÈ¹ÜÀí¹¦ÄÜÇ¨ÒÆ¹ýÀ´
+* Ç¨ÒÆµ½ThinkPHP5¿ò¼Ü
+* Ôö¼ÓÈô¸É¹¦ÄÜ

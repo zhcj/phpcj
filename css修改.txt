@@ -1,0 +1,3 @@
+1、删掉AdminLTE.min.css最前面引用google字体一行；
+2、删掉font-family中的Source Sans字体设置；
+3、font-family中添加Microsoft Yahei字体；

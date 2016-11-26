@@ -1,0 +1,11 @@
+<?php
+$_SESSION['sjzusername']='';
+$_SESSION['sjzusercheck']='';
+$_SESSION['sjzusersort']='';
+$_SESSION['sjzusermain']='';
+$_SESSION['sjzuserid']='';
+$_SESSION['sjzusergrade']='';
+$_SESSION['sjzuserclass']='';
+$_SESSION['user_style']='';
+Header("Location:".$web_root."/");
+exit;
