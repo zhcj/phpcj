@@ -1,7 +1,7 @@
 #中学成绩管理系统
 
-官方网站：[http://phpcj.net/](http://phpcj.net/)
-作者博客：[http://phpcj.org/](http://phpcj.org/)
+* 官方网站：[http://phpcj.net/](http://phpcj.net/)
+* 作者博客：[http://phpcj.org/](http://phpcj.org/)
 
 #安装说明
 
